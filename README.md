@@ -31,7 +31,7 @@ ASTRID=MO10:00-12:00,TH12:00-14:00,SU20:00-21:00
 OUTPUT:
 RENE-ASTRID: 3
 
-#Solution 
+# Solution 
 
 As explain  previously we recive a txt file with which we can obtain the information of every employee .
 After reading the file , it is important to store this information to work with it and show the OUTPUT. 
