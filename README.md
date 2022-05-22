@@ -42,6 +42,15 @@ Once the file is fully read ,we need to compare the schedule of every employee w
 To compare the schedule , the string value obtain from the dictionary is converted to a daytime object depending on the format (in this case %H:%M) 
 Once the schedules are compared , the name of the coworker is added to a list to make sure we dont repeat cowerks to compare .
 
+# Flow chart 
+
+# Instructions to compile
+
+for this excercise it is necesary to have python 3 installed .
+to run our program we can use the cmd and use the commands ls and cd to move around our directories until we are on the directory with our. py file
+Once there we use the command py followed by the name of the file to run it as shown in the picture bellow
+
+![image](https://user-images.githubusercontent.com/67160144/169714763-50ed1761-05b2-49c6-b525-a99e0c1d173c.png)
 
 
 
