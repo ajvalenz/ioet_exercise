@@ -48,7 +48,8 @@ Once the schedules are compared , the name of the coworker is added to a list to
 
 For this excercise it is necesary to have python 3 installed 
 
-To run the exercise , use the cmd and the commands ls and cd to show and move around  oyur directories until you are on the directory with the py file \n
+To run the exercise , use the cmd and the commands ls and cd to show and move around  oyur directories until you are on the directory with the py file 
+
 Once there ,use the command py or python followed by the name of the file to run it as shown in the picture bellow
 
 ![image](https://user-images.githubusercontent.com/67160144/169714763-50ed1761-05b2-49c6-b525-a99e0c1d173c.png)
