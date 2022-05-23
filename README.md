@@ -44,6 +44,7 @@ Once the schedules are compared , the name of the coworker is added to a list to
 
 # Flow chart 
 
+![Blank diagram](https://user-images.githubusercontent.com/67160144/169745656-1c6062cb-e321-4886-8aa3-750099408840.png)
 
 
 # Instructions to compile
