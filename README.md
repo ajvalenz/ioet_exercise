@@ -43,7 +43,9 @@ To compare the schedule , the string value obtain from the dictionary is convert
 Once the schedules are compared , the name of the coworker is added to a list to make sure we dont repeat cowerks to compare .
 
 # Flow chart 
-
+ The following flowchart  shows how the solution functions by getting a txt file as an input and returning a table as an output with all the employees and the number of hours they have coincided .
+ Internaly we have two methods that will  take the data , store it on a dictonary and process the information to obtain this table. To do so we take a pair of coworkers and  compare  if either of those working shifts is complete o partially inside the other if so we add a 1 to a counter for every day of the week getting as a result for each employee the number of times they conicided with each coworker on a week 
+ 
 ![Blank diagram](https://user-images.githubusercontent.com/67160144/169745656-1c6062cb-e321-4886-8aa3-750099408840.png)
 
 
